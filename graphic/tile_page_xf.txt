@@ -1,0 +1,111 @@
+tile_page_xf
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:SK_BLUEPRINT_ARROWS]
+	[FILE:images/sk_blueprint_arrows.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM_PIXELS:160:36]
+	
+[TILE_PAGE:SK_COLORFUL_PRIORITY_BUTTONS]
+	[FILE:images/sk_colorful_priority_buttons.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM_PIXELS:224:36]
+	
+[TILE_PAGE:SK_GIGADWARFS_ALERTS]
+	[FILE:images/sk_gigadwarfs_alerts.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:32:128]
+	
+[TILE_PAGE:SK_GIGADWARFS_CLOUDS]
+	[FILE:images/sk_gigadwarfs_clouds.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:32:1184]
+	
+[TILE_PAGE:SK_GIGADWARFS_STRESS]
+	[FILE:images/sk_gigadwarfs_stress.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM_PIXELS:112:24]
+	
+[TILE_PAGE:SK_MENU_BUTTONS]
+	[FILE:images/sk_menu_buttons.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM_PIXELS:96:24]
+	
+[TILE_PAGE:SK_MOON_STARS]
+	[FILE:images/sk_moon_stars.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:256:32]
+
+[TILE_PAGE:SK_REMOVE_BUTTONS]
+	[FILE:images/sk_remove_buttons.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM_PIXELS:96:36]
+
+[TILE_PAGE:SK_SUSPEND_BUTTON]
+	[FILE:images/sk_suspend_button.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM_PIXELS:64:72]
+	
+[TILE_PAGE:SK_TRANSPARENT_DESIGNATIONS]
+	[FILE:images/sk_transparent_designations.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:64:480]
+	
+[TILE_PAGE:SK_DESIGNATION_ITEMS]
+	[FILE:images/sk_designation_items.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM_PIXELS:96:120]
+
+[TILE_PAGE:DESIGNATION_ITEMS_MARK]
+	[FILE:images/sk_designation_items_mark.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:32:32]
+	
+[TILE_PAGE:SK_TO_FROM_ARROWS]
+	[FILE:images/sk_to_from_arrows.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM_PIXELS:64:288]
+	
+[TILE_PAGE:SK_ZONE_ICONS]
+	[FILE:images/sk_zone_icons.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:32:64]
+	
+
+
+[TILE_PAGE:INTERFACE_BITS_LABOR_WD]
+	[FILE:images/interface_bits_labor_wd.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM_PIXELS:416:144]
+	
+[TILE_PAGE:MORE_CUSTOM_SYMBOLS]
+	[FILE:images/more_custom_symbols.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:160]
+	
+[TILE_PAGE:INTERFACE_BITS_SHARED_TWEAKED]
+	[FILE:images/interface_bits_shared_tweaked.png]
+	[TILE_DIM:8:12]
+	[PAGE_DIM_PIXELS:128:360]
+
+============================= Metal plates floors	
+[TILE_PAGE:METAL_PLATE_FLOOR]
+	[FILE:images/metal_plate_floor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:1:1]
+=============================
+	
+============================= Vet Golems
+[TILE_PAGE:VETG_VETERINARIAN_GOLEM]
+	[FILE:images/vetg_veterinarian_golem.png]
+	[TILE_DIM:64:64]
+	[PAGE_DIM:2:2]
+=============================
+
+============================= Transparent Glass Floors
+[TILE_PAGE:FLOOR_GLASS_NEW]
+	[FILE:images/glass_floor_new.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:3:1]
+=============================
