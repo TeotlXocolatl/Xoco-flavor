@@ -5,7 +5,7 @@ Xoco flavor v1.0
 
 Mod list
 -Actually Red Redroot Dye (https://steamcommunity.com/sharedfiles/filedetails/?id=2936712087)
--DLE - All Year Underground Farming (https://steamcommunity.com/sharedfiles/filedetails/?id=2952770712)
+- DLE - All Year Underground Farming (https://steamcommunity.com/sharedfiles/filedetails/?id=2952770712)
 -Audible Alerts (https://steamcommunity.com/sharedfiles/filedetails/?id=2898589374)
 -Smelters Burn Waste (https://steamcommunity.com/sharedfiles/filedetails/?id=2901152033)
 -Burn Wood Items (https://steamcommunity.com/sharedfiles/filedetails/?id=2902354258)
