@@ -1,0 +1,6 @@
+item_gloves_xf
+
+[OBJECT:ITEM]
+
+[SELECT_ITEM:ITEM_GLOVES_MITTENS]
+    [SHAPED]
